@@ -78,8 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'urban_prod',
         'USER': 'u_urban',
-        'PASSWORD': '123',
-        'HOST': '127.0.0.1',
+        'PASSWORD': '123',:
         'PORT': '',
     }
 }
