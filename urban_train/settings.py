@@ -79,6 +79,7 @@ DATABASES = {
         'NAME': 'urban_prod',
         'USER': 'u_urban',
         'PASSWORD': '123',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
